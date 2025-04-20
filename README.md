@@ -15,6 +15,12 @@ This repository contains two powerful tools for leveraging OpenAI's GPT models t
 
 ---
 
+## 📸 Demo
+
+![Demo Screenshot](img.png)
+
+---
+
 ## 📦 Setup Instructions
 
 ### 1. Clone the Repository
